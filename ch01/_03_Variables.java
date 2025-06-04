@@ -26,7 +26,7 @@ public class _03_Variables {
         l = 1_000_000_000_000L; //보기힘들어서 언더바
         System.out.println(l);
 
-        int, long, float, double, char, String, boolean
+        // int, long, float, double, char, String, boolean
         //사용하는 데이터에 맞게 써야 문제가 덜생김
     }
 

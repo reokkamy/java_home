@@ -1,4 +1,4 @@
-package ch01; //상수수
+package ch01; //상수
 
 public class _06_Constants {
     public static void main(String[] args) {
@@ -9,6 +9,7 @@ public class _06_Constants {
         final double PI = 3.141592; //원주율율
         final String DATE_OF_BIRTH = "1992-12-12";   //생년월일
         System.out.println(PI);
+        System.out.println(DATE_OF_BIRTH);
 
     }
 }

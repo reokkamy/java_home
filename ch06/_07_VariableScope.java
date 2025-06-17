@@ -26,7 +26,7 @@ public class _07_VariableScope {
             System.out.println(j);
             System.out.println(number);
         }
-        System.out.println(j);
+        // System.out.println(j);
     }
     
 }

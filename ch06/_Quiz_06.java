@@ -13,7 +13,7 @@ public class _Quiz_06 {
         // for (int i = index; i < data.length(); 1++){
         for (int i = 0; i < data.length() - index; i++) {
             hiddenData += "*";  //김**
-
+ 
         }
 
         return hiddenData;
@@ -29,5 +29,4 @@ public class _Quiz_06 {
         System.out.println("주민등록번호 : " + getHiddenData(id, 8));
         System.out.println("전화번호 : " + getHiddenData(phone, 9));
     }
-
 }
